@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+/deploy.sh
+/s3_website.yml
+/_config.yml
